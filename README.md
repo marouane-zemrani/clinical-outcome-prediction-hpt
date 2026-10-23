@@ -104,7 +104,3 @@ The absence of those materials is intentional. The underlying hospital data are 
 ## Acknowledgments
 
 This work was completed during an internship at **CHRU Nancy**, with supervision from **Claire Nominé-Criqui (CHRU Nancy)** and **Alexandre Nominé (Mines Nancy)**.
-
----
-
-*This README is an English-language summary of the original French internship work; it is not a peer-reviewed publication or a clinically validated tool.*
